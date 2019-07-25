@@ -51,7 +51,7 @@ if(!empty($_GET['url'])) {
 <title>FlashAir Web Downloader!</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="noindex, nofollow">
-<link href="//code.rifix.net/bootstrap/2.3.2/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/2.3.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
 <hr>
